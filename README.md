@@ -4,16 +4,16 @@ This project is a REST microservice that list the languages used by the 100 tren
 For every language, it provides the number of repositories using it + the names of those repositories.
 
 ## Technologies :
--Java
--Spring
--Spring Boot
+- Java
+- Spring
+- Spring Boot
 
 ## Example :
 
 
 ## How to use : 
--Clone the project
--Open it using your IDE (Intellij for instance)
--Build and run at a free port (8080 for example)
--If you're using your browser, you might need a Json Viewer plugin 
--And finally use this link [http://localhost:8080/repos/top-100-languages](http://localhost:8080/repos/top-100-languages)
+- Clone the project
+- Open it using your IDE (Intellij for instance)
+- Build and run at a free port (8080 for example)
+- If you're using your browser, you might need a Json Viewer plugin 
+- And finally use this link [http://localhost:8080/repos/top-100-languages](http://localhost:8080/repos/top-100-languages)
