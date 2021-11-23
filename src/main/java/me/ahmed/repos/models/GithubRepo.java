@@ -9,6 +9,7 @@ import com.fasterxml.jackson.annotation.JsonInclude;
 
 public class GithubRepo {
     private String language;
+    private String name;
 
     public GithubRepo() {
     }
@@ -19,5 +20,13 @@ public class GithubRepo {
 
     public void setLanguage(String language) {
         this.language = language;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
     }
 }
