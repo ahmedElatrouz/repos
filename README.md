@@ -9,7 +9,7 @@ For every language, it provides the number of repositories using it + the names 
 - Spring Boot
 
 ## Example :
-
+![json example](https://github.com/ahmedElatrouz/repos/tree/main/readme-files/example.png?raw=true)
 
 ## How to use : 
 - Clone the project
