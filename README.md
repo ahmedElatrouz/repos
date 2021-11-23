@@ -1,16 +1,17 @@
 # repos (the project name is vague for a reason)
+## Intro
 This project is a REST microservice that list the languages used by the 100 trending public repos (created in the last 30 days) on GitHub.
 For every language, it provides the number of repositories using it + the names of those repositories.
 
-##Technologies :
+## Technologies :
 -Java
 -Spring
 -Spring Boot
 
-##Example :
+## Example :
 
 
-##How to use : 
+## How to use : 
 -Clone the project
 -Open it using your IDE (Intellij for instance)
 -Build and run at a free port (8080 for example)
